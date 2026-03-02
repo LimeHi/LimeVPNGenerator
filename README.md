@@ -1,5 +1,7 @@
 # LimeVPN Parser Update
 
-Статус: Работает
-Всего ключей: 471
-Последнее обновление: 2026-03-02 19:57:41
+**Status:** Online 🟢
+**Total Keys:** 471
+**Last Sync:** 2026-03-02 15:30:59 (UTC)
+
+*Updated every 13 minutes.*
