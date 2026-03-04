@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-04 07:37:40
+# Last Update: 2026-03-04 07:50:49
 hy2://default:DKFzbGvtAkn2AG7C2FqyjdOav0bo7bXg@51.250.41.243:8443/?insecure=1&sni=sun6-22.userapi.com&obfs=salamander&obfs-password=A5JDQcOv7Gifnygu2QoAPznVR5oU6Ai0#2299.%20%F0%9F%87%B2%F0%9F%87%A6%20CONFIG%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 hysteria2://SNItest@37.18.14.169:443?security=tls&amp;insecure=1&amp;sni=megafon.ru#2300.%20%F0%9F%87%B7%F0%9F%87%BA%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
