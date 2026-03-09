@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-09 18:17:48
+# Last Update: 2026-03-09 18:30:55
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#530.%20%F0%9F%87%B7%F0%9F%87%BA%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 hysteria2://germany_hysteria2_fastlane_m5o0jp14n%3Az0DbuWO93ghrZg2Hn5Uk1HI7bjMPssbr@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#0213 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://hysteria2_fastlane_1i6h1l4sl%3ANoN480zbmvyftOY9oApbob7BLPrpJrEn@150.241.78.128:1935/?sni=de3.h.fastlanehosting.ru#0185 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
@@ -152,7 +152,6 @@ trojan://AKT2Mvj3n3EApHN1rsfSJ-0Cg-o93kyh@89.208.228.1:7443/?type=tcp&security=t
 trojan://AKT2Mvj3n3EApHN1rsfSJ-0Cg-o93kyh@89.208.229.29:7443/?type=tcp&security=tls&sni=pl.serverstats.ru&alpn=h2%2Chttp/1.1&fp=qq#0400 | 🇷🇺 Russia | TROJAN | TG: @YoutubeUnBlockRu
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=raw&headerType=none&security=tls&sni=tttyder.wsone.icu#197.%20%F0%9F%87%AE%F0%9F%87%B3%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://T9BpZIVMNv@104.18.185.26:8443?host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#0318 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://T9BpZIVMNv@chatgpt.com:8443?security=tls&sni=sweden.vmaxpanel.com&insecure=0&allowInsecure=0&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?path=/amd&type=ws#0973 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://T9BpZIVMNv@v1.dabache.top:8443?host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#1325 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://T9BpZIVMNv@v3.dabache.top:8443?host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#1353 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
@@ -2113,5 +2112,4 @@ vless://id8114764549@185.157.214.96:8443?type=tcp&security=reality&sni=eh.vk.com
 vless://tel-Channel-ViPv2rayVip@salamsalamirancell.aattaash.com:2087?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=chrome&amp;alpn=http/1.1,h2&amp;sni=newfinland2.aattaash.com#321. 🌐 Unknown | @restlyconnect
 vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&encryption=none&host=cdn-alman5.arfilter2.blog&type=xhttp#123. 🇬🇧 United Kingdom | @restlyconnect
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=vPo.SpEeDtEsT2029.CoM#50. 🇨🇦 Canada | @restlyconnect
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJhZGQiOiJjaGF0Z3B0LmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiIzMDE0LiBWTUVTUyB8IFNOSTogcGVsYW5nLm9yZyB8IENJRFI6ID8gfCBURzogQHdscnVzdGciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
