@@ -1,7 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-12 10:47:31
+# Last Update: 2026-03-12 11:00:36
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#834.%20%F0%9F%87%B7%F0%9F%87%BA%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
+hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@de.xn--ehqa22b.site:21559?sni=de.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://hysteria2_fastlane_1i6h1l4sl%3ANoN480zbmvyftOY9oApbob7BLPrpJrEn@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Bern%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://hysteria2_fastlane_4qo4hrfig%3Ax2l3LlMNo7MpsGUbnpHhZaXpZouGJ38W@138.124.183.9:1935/?sni=us1.h.smartaisupport.ru#0222 | 🇺🇸 USA | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
@@ -129,7 +130,7 @@ trojan://telegram-id-privatevpns@52.28.114.17:22222?Telegram=@GozargahAzad,@Goza
 trojan://telegram-id-privatevpns@63.183.93.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#37.%20%F0%9F%87%A9%F0%9F%87%AA%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://trojan@18.102.110.23:9443/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#0620 | 🇮🇹 Italy | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://trojan@185.188.30.107:9864?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#0744%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Free%20%7C%20%40LowiK_Live
-trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
+trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420#0689 | 🇳🇴 Norway | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://%50a%72sa%73%68%6fna%6d-87@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#106. 🇸🇪 Sweden | @restlyconnect
 vless://00000000-0000-4000-8000-000000000000@130.185.119.60:5000?encryption=none&security=tls&sni=sub.mot.ip-ddns.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sub.mot.ip-ddns.com&path=%2F#0620%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20Free%20%7C%20%40LowiK_Live
