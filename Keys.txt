@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-14 17:37:05
+# Last Update: 2026-03-14 17:50:10
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
 hy2://poland_hysteria2_fastlane_l6g004xu9:EK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935/?sni=de4.h.fastlanehosting.ru#%F0%9F%87%B2%F0%9F%87%AA%F0%9F%8F%B4%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B9%20%40LimeVPNFREE
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
@@ -103,7 +103,7 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=
 trojan://T9BpZIVMNv@v2.dabache.top:8443?path=/amd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#0792 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com&type=ws#1410%20%7C%20%F0%9F%8C%8D%208255%20%7C%20%F0%9F%87%B9%F0%9F%87%AC%20Togo%20%7C%20W%20%7C%20Free%20%7C%20%40LowiK_Live
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#55.%20%F0%9F%87%B0%F0%9F%87%B7%20TROJAN%20%7C%20TG%3A%20%40wlrustg
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%28Alna%20District%29%20%7C%20%5BBL%5D
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#45.%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://bpb-trojan@russia.com:443/?type=ws&host=vless4.vlessvless.top&path=/tr%3Fed%3D2560&security=tls&sni=vless4.vlessvless.top&alpn=h3&fp=randomized#0457 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?security=tls&sni=rft5.xx9.ccwu.cc&alpn=http%252F1.1&type=ws&host=rft5.xx9.ccwu.cc&path=%2fks4McWjhV7bXNC0BXGtJ#0165 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#69.%20%F0%9F%87%B9%F0%9F%87%AC%20TROJAN%20%7C%20TG%3A%20%40wlrustg
