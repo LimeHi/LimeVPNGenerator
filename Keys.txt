@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-15 20:26:58
+# Last Update: 2026-03-15 20:40:04
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#333.%20%F0%9F%87%B7%F0%9F%87%BA%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
@@ -60,7 +60,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 [AS8849] Melbikomas UAB #1411.%20%F0%9F%87%AE%F0%9F%87%B3%20SS%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#🇮🇳 [AS8849] Melbikomas UAB #1482.%20%F0%9F%87%AE%F0%9F%87%B3%20SS%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2OE5LaVN4aWxHVnNsb2RGUFdXTFI4@194.71.130.26:2949#19.%20%F0%9F%87%AD%F0%9F%87%BA%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ@45.15.127.49:443?#🌐 [AS209847] WorkTitans B.V. #1214.%20SS%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#🇦🇺 [AS209847] WorkTitans B.V. #1313.%20%F0%9F%87%A6%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUVJDaC1xbTExR0g5TWFSV1g5TmRtU2RXYUdSaEZlUw@51.250.79.203:22#🇷🇺 [AS200350] Yandex.Cloud LLC #1261.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg
@@ -108,7 +107,7 @@ trojan://dkp96mJVuj@5.175.249.117:443?security=reality&sni=google.com&fp=chrome&
 trojan://e6a2e8dc4d124efebc970add718de37b@vpn.aprux.ru:443/?type=tcp&security=tls&alpn=h2%2Chttp/1.1#0311 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#0619 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&sni=www.vk.com#🇷🇺 [AS51659] LLC Baxet #1175.%20%F0%9F%87%B7%F0%9F%87%BA%20TROJAN%20%7C%20SNI%3A%20www.vk.com%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
-trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&security=reality&pbk=asrnd4KrFBe5Ygz7LkvvsdMG-YnvChftudLamEVisk8&fp=chrome&sni=www.icloud.com&sid=8a&spx=/#0558 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&security=reality&pbk=asrnd4KrFBe5Ygz7LkvvsdMG-YnvChftudLamEVisk8&fp=chrome&sni=www.icloud.com&sid=8a&spx=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443/?type=tcp&security=tls&sni=8443.golden-cards.me#0182 | 🇱🇹 Lithuania | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click#🌐 [AS209847] WorkTitans B.V. #1220.%20TROJAN%20%7C%20SNI%3A%20binaryboots.algorithmblanket.click%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
