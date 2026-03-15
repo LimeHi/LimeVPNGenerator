@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-15 02:20:31
+# Last Update: 2026-03-15 02:33:36
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
 hy2://poland_hysteria2_fastlane_l6g004xu9:EK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935/?sni=de4.h.fastlanehosting.ru#%F0%9F%87%B2%F0%9F%87%AA%F0%9F%8F%B4%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B9%20%40LimeVPNFREE
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#1384%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Free%20%7C%20%40LowiK_Live
@@ -105,11 +105,10 @@ trojan://bpb-trojan@russia.com:443/?type=ws&host=vless4.vlessvless.top&path=/tr%
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#0046%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Free%20%7C%20%40LowiK_Live
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mkl.2oo.ccwu.cc:443?allowInsecure=1&alpn=http%252F1.1&fp=chrome&host=mkl.2oo.ccwu.cc&path=%2FmRjWgF9aMWcpQ8L96b&security=tls&sni=mkl.2oo.ccwu.cc&type=ws#1705%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Free%20%7C%20%40LowiK_Live
 trojan://dkp96mJVuj@5.175.249.117:443?security=reality&sni=google.com&fp=chrome&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&sid=9715efa856269398&type=http&host=www.namasha.com%2Cs45.namasha.com&path=%2F#1337%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Free%20%7C%20%40LowiK_Live
-trojan://e6a2e8dc4d124efebc970add718de37b@85.209.195.78:443?security=tls&sni=vpn.aprux.ru&type=tcp&alpn=h2,http/1.1&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 trojan://e6a2e8dc4d124efebc970add718de37b@vpn.aprux.ru:443/?type=tcp&security=tls&alpn=h2%2Chttp/1.1#0356 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#28.%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&sni=www.vk.com#🇷🇺 [AS51659] LLC Baxet #1349.%20%F0%9F%87%B7%F0%9F%87%BA%20TROJAN%20%7C%20SNI%3A%20www.vk.com%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
-trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&security=reality&pbk=asrnd4KrFBe5Ygz7LkvvsdMG-YnvChftudLamEVisk8&fp=chrome&sni=www.icloud.com&sid=8a&spx=/#0154 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&security=reality&pbk=asrnd4KrFBe5Ygz7LkvvsdMG-YnvChftudLamEVisk8&fp=chrome&sni=www.icloud.com&sid=8a&spx=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#62.%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click#🌐 [AS209847] WorkTitans B.V. #1394.%20TROJAN%20%7C%20SNI%3A%20binaryboots.algorithmblanket.click%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
@@ -118,7 +117,7 @@ trojan://telegram-id-privatevpns@13.37.137.164:22222?security=tls&alpn=http/1.1&
 trojan://trojan@152.53.200.167:8444/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#0319 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://trojan@18.102.110.23:9443/?type=ws&host=jflsjlaf.pages.dev&security=tls&sni=jflsjlaf.pages.dev#0109 | 🇮🇹 Italy | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://trojan@185.188.30.107:9864?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#0744%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Free%20%7C%20%40LowiK_Live
-trojan://vpn@45.82.14.144:2025?type=ws&path=/&headers=Host,dns.google.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
+trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%28Alna%20District%29%20%7C%20%5BBL%5D
 trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://%50a%72sa%73%68%6fna%6d-87@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#106. 🇸🇪 Sweden | @restlyconnect
