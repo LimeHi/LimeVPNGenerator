@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-23 23:10:52
+# Last Update: 2026-03-23 23:23:57
 hysteria2://123456789StrongPass@144.31.224.14:443?sni=eh.vk.com#0642 | 🇳🇱 Netherlands | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#1051%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687?#0080%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
@@ -244,7 +244,7 @@ vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@kz1vless.krasivovpn.ru:443?type=tcp
 vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@kz2.krasivogame.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=zabotavpn.ru#0696 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@nl1vless.krasivovpn.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=nl1vless.krasivovpn.ru#0528 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
 vless://3fe48a33-aac8-41cd-b2db-fdeeafced0aa@nl2.krasivogame.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=nl2.krasivogame.ru#0408 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://40759e42-d74b-4470-acc4-a580f264e860@79.174.95.68:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=rus.alibarda-ru.ru&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0106|
+vless://40759e42-d74b-4470-acc4-a580f264e860@79.174.95.68:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=rus.alibarda-ru.ru&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0108|
 vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?type=tcp&security=reality&encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&sid=4830d187&sni=www.sony.com&spx=/#0686 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&fp=random&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com&spx=/#0262 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?type=ws&security=tls&encryption=none&sni=639073677236045352.mustang-perma.info&path=/xxfzrfws&host=639073677236045352.mustang-perma.info&alpn=http/1.1#0820 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
