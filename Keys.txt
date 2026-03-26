@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%40LimeVPNFREE%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%20
-# Last Update: 2026-03-26 09:23:21
+# Last Update: 2026-03-26 09:36:26
 hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#1052%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kwu%20Tung%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#1051%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
 hysteria2://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@212.193.18.60:8443?insecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 hysteria2://hysteria2_fastlane_25q5nyzdf%3AD2OuF6pWvlokFwPqN6jI74FnRQypNmz3@91.132.160.243:1935?sni=de6.h.fastlanehosting.ru#0639 | 🇩🇪 Germany | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
@@ -11,8 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTlZXNnVoWHFIZkVNWEpCRnkwZUVzdm0yajBGSFd3Tg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNjZON2VETXFibjV1UFdFdTVWcHkx@195.93.253.240:14130?#0081%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGU4OXE3SnpGU2dTZ0ZKcFBWZHJmRmVCSzg1NTlBaw==@158.160.230.128:58888?#0495 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | SS | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGU4OXE3SnpGU2dTZ0ZKcFBWZHJmRmVCSzg1NTlBaw==@212.193.31.114:58888?#0553 | 🇷🇺 Russia | SS | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndzhDbGtnY1lpcnd5RlA1YUR6Q2tB@81.19.135.184:821#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206MTM5YjU3MDUtODU2Ni00MDRlLThkZTctMThlOTdjNzE5ZWJj@gm.academicbest.dpdns.org:7002#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%28Nordweststadt%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206ZWNlOWY5ODEtOTA2OS00ZWQ0LTk1OTMtNjgwZGVjMTk4YTQz@sg02.academicbest.dpdns.org:7010#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Karlsruhe%20%28Nordweststadt%29%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@160.153.137.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls#0082%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@198.71.188.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls#0019%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@45.40.147.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls#0020%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus
