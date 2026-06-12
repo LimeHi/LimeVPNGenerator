@@ -1,1 +1,8 @@
-
+    "#profile-title: 🍋\u200d🟩LimeVPN🍋\u200d🟩\n"
+    "#profile-update-interval: 1\n"
+    "#subscription-userinfo: upload=0; download=0; total=0; expire={expire_ts}\n"
+    "#announce: ✅ Подписка активна — осталось {days_left} дн. | ⚠️ Сервера снизу предназначены для обхода глушилок — используйте их только когда глушат мобильный интернет❗\n"
+    "#support-url: https://t.me/LimeVPNHelpbot\n"
+    "#profile-web-page-url: https://t.me/LimeVPNSub\n"
+    "#hide-settings: 1\n"
+     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaW1lVlBORlJFRQ@limevpn.com:8443#%E2%9B%94%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%20%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2
