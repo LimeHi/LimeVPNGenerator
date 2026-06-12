@@ -1,2 +1,2 @@
-"#hide-settings: 1\n"
+#hide-settings: 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaW1lVlBORlJFRQ@limevpn.com:8443#%E2%9B%94%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%20%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2
